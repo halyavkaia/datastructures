@@ -1,5 +1,5 @@
 from collections import deque
-
+#Халявка Иван Андреевич#
 n = int(input())
 target = ['white' if i % 2 == 0 else 'black' for i in range(n)]
 dq = deque()
